@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "esbuild": "^0.15.5",
+    "maplibre-gl": "^2.3.0"
+  },
+  "scripts":{
+    "build": "node build.js"
+  }
+}
